@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vbox width="100%" height="100%">
+    <section-header text="Scrollview Test" />
+
+    <spacer height="10" />
+
+    <scrollview id="scrollView" width="200" height="200">
+    </scrollview>
+</vbox>
